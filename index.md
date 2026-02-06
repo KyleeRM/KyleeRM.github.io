@@ -24,9 +24,5 @@ The video below contains:
 - The identification of structural, algorithmic, and design improvement opportunities
 - Planned enhancements aligned with course outcomes
 
-<iframe width="560" height="315"
-src="https://youtu.be/bOn9O469nPY"
-title="CS 499 Code Review - Milestone 1"
-frameborder="0"
-allowfullscreen>
-</iframe>
+🎥 **Code Review Video (YouTube – Unlisted):**  
+[CS 499 Code Review – Milestone 1](https://youtu.be/bOn9O469nPY)

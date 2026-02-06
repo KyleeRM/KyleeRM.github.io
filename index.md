@@ -34,9 +34,9 @@ The video below contains:
 - **Description:** Android-based inventory management application enhanced to improve
   software structure, readability, and maintainability.
 - **Skills Demonstrated:** Modular design, separation of concerns, refactoring, documentation.
+ 
+**Narrative:**  
+[Enhancement One Narrative (PDF)](assets/pdfs/Milestone Two Narrative.pdf)
 
- **Source Code Repository:**  
-[Inventory App – Software Design Enhancement](InventoryAppFinal_CS-499_Module3.zip)
-
- **Narrative:**  
-[Enhancement One Narrative (PDF)](CS-499 Milestone Two Narrative.pdf)
+ **Download Source Code (ZIP):**  
+[Inventory App – Enhancement One ZIP](assets/zips/InventoryAppFinal_CS499_Module3.zip)

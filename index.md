@@ -24,5 +24,19 @@ The video below contains:
 - The identification of structural, algorithmic, and design improvement opportunities
 - Planned enhancements aligned with course outcomes
 
-🎥 **Code Review Video (YouTube – Unlisted):**  
+ **Code Review Video (YouTube – Unlisted):**  
 [CS 499 Code Review – Milestone 1](https://youtu.be/bOn9O469nPY)
+
+## Enhancement One: Software Design and Engineering
+
+### Artifact: Inventory Management Application
+
+- **Description:** Android-based inventory management application enhanced to improve
+  software structure, readability, and maintainability.
+- **Skills Demonstrated:** Modular design, separation of concerns, refactoring, documentation.
+
+ **Source Code Repository:**  
+[Inventory App – Software Design Enhancement](InventoryAppFinal_CS-499_Module3.zip)
+
+ **Narrative:**  
+[Enhancement One Narrative (PDF)](CS-499 Milestone Two Narrative.pdf)

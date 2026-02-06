@@ -39,4 +39,4 @@ The video below contains:
 [Enhancement One Narrative (PDF)](assets/assets/pdfs/CS-499_Milestone2_Narrative.pdf)
 
  **Download Source Code (ZIP):**  
-[Inventory App – Enhancement One ZIP](assets/zips/InventoryAppFinal_CS-499_Module3.zip)
+[Inventory App – Enhancement One ZIP](assets/assets/zips/InventoryAppFinal_CS-499_Module3.zip)

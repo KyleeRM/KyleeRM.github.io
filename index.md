@@ -36,7 +36,7 @@ The video below contains:
 - **Skills Demonstrated:** Modular design, separation of concerns, refactoring, documentation.
  
 **Narrative:**  
-[Enhancement One Narrative (PDF)](assets/assets/pdfs/CS-499_Milestone_Two_Narrative)
+[Enhancement One Narrative (PDF)](assets/assets/pdfs/CS-499_Milestone_Two_Narrative.pdf)
 
  **Download Source Code (ZIP):**  
 [Inventory App – Enhancement One ZIP](assets/assets/zips/InventoryAppFinal_CS-499_Module3.zip)

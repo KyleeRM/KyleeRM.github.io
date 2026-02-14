@@ -40,3 +40,16 @@ The video below contains:
 
  **Download Source Code (ZIP):**  
 [Inventory App – Enhancement One ZIP](assets/assets/zips/InventoryAppFinal_CS-499_Module3.zip)
+
+## Enhancement Two: Algorithms and Data Structures
+
+### Artifact: Inventory Management Application
+
+- **Description:** Android-based inventory management application enhanced to demonstrate algorithmic thinking and effective data handling.
+- **Skills Demonstrated:** Efficient data handling, algorithmic problem solving, validation/duplicate detection, and applying CS practices/standards while managing trade-offs.
+
+Narrative:  
+[Enhancement Two Narrative (PDF)](assets/assets/pdfs/CS499_Milestone_Three_Narrative.pdf)
+
+Download Source Code (ZIP):  
+[Inventory App – Enhancement Two ZIP](assets/assets/zips/InventoryAppFinal_CS499_Module4.zip)

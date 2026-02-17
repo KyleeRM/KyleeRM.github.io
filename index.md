@@ -14,6 +14,7 @@ This portfolio showcases my work in:
 
 Each artifact demonstrates my technical growth throughout the Computer Science program.
 
+---
 
 ## Informal Code Review
 

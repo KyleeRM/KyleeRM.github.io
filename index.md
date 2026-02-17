@@ -24,7 +24,7 @@ Throughout this capstone course, I have demonstrated growth and proficiency in t
  
   These outcomes are reflected throughout my code review, artifact enhancements, and reflective naratives. Altogether, they demonstrate not only my technical capabilities, but also my ability to connect software design, security, and algorithmic decision making with organizational strategy and professional communication.
 
-  ---
+
   
   Below you will find:
   

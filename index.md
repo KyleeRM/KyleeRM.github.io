@@ -27,6 +27,8 @@ The video below contains:
  **Code Review Video (YouTube – Unlisted):**  
 [CS 499 Code Review – Milestone 1](https://youtu.be/bOn9O469nPY)
 
+---
+
 ## Enhancement One: Software Design and Engineering
 
 ### Artifact: Inventory Management Application
@@ -40,6 +42,8 @@ The video below contains:
 
  **Download Source Code (ZIP):**  
 [Inventory App – Enhancement One ZIP](assets/assets/zips/InventoryAppFinal_CS-499_Module3.zip)
+
+---
 
 ## Enhancement Two: Algorithms and Data Structures
 

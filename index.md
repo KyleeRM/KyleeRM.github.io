@@ -23,6 +23,8 @@ Throughout this capstone course, I have demonstrated growth and proficiency in t
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
  
   These outcomes are reflected throughout my code review, artifact enhancements, and reflective naratives. Altogether, they demonstrate not only my technical capabilities, but also my ability to connect software design, security, and algorithmic decision making with organizational strategy and professional communication.
+
+  ---
   
   Below you will find:
   

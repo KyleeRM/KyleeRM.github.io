@@ -48,8 +48,24 @@ The video below contains:
 - **Description:** Android-based inventory management application enhanced to demonstrate algorithmic thinking and effective data handling.
 - **Skills Demonstrated:** Efficient data handling, algorithmic problem solving, validation/duplicate detection, and applying CS practices/standards while managing trade-offs.
 
-Narrative:  
+**Narrative:** 
 [Enhancement Two Narrative (PDF)](assets/assets/pdfs/CS499_Milestone_Three_Narrative.pdf)
 
-Download Source Code (ZIP):  
+ **Download Source Code (ZIP):**
 [Inventory App – Enhancement Two ZIP](assets/assets/zips/InventoryAppFinal_CS499_Module4.zip)
+
+---
+
+## Enhancement Three: Databases 
+
+### Artifact: Inventory Management Application
+
+- **Description:** Android-based inventory management application enhanced to expand database functionality beyond basic CRUD and strengthen secure data handling practices.
+- **Skills Demonstrated:** JSON import/export design, transaction-safe database operations, secure credential storage, encryption of sensitive data, and database integrity management.
+
+
+**Narrative:** 
+[Enhancement Three Narrative (PDF)](assets/assets/pdfs/CS499_Milestone_Four_Narrative.pdf)
+
+ **Download Source Code (ZIP):**
+[Inventory App – Enhancement Two ZIP](assets/assets/zips/InventoryAppFinal_CS499_Module5.zip)

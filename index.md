@@ -12,7 +12,7 @@ This portfolio showcases my work in:
 - Algorithms and Data Structures
 - Databases
 
-Each of these artifacts demonstrates my technical growth throughout the Computer Science program.
+Each of these artifacts demonstrate my technical growth throughout the Computer Science program.
 
 Throughout this capstone course, I have demonstrated growth and proficiency in the following course outcomes:
 
@@ -22,11 +22,11 @@ Throughout this capstone course, I have demonstrated growth and proficiency in t
 - Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
  
-  These outcomes are reflected throughout my code review, artifact enhancements, and reflective naratives. Altogether, they demonstrate not only my technical capabilities, but also my ability to connect software design, security, and algorithmic decision making with organizational strategy and professional communication.
+These outcomes are reflected throughout my code review, artifact enhancements, and reflective narratives. Altogether, they demonstrate not only my technical capabilities, but also my ability to connect software design, security, and algorithmic decision making with organizational strategy and professional communication.
 
 
   
-  ## Below you will find:
+ ## Below you will find:
   
 - Professional Self-Assessment
 - Code Review
@@ -105,4 +105,4 @@ The video below contains:
 [Enhancement Three Narrative (PDF)](assets/assets/pdfs/CS499_Milestone_Four_Narrative.pdf)
 
  **Download Source Code (ZIP):**
-[Inventory App – Enhancement Two ZIP](assets/assets/zips/InventoryAppFinal_CS499_Module5.zip)
+[Inventory App – Enhancement Three ZIP](assets/assets/zips/InventoryAppFinal_CS499_Module5.zip)

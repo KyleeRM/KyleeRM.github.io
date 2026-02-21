@@ -46,6 +46,8 @@ From a technical standpoint, this program helped me to strengthen my understandi
 
 Developing this ePortfolio has allowed me to look back on my time in the SNHU computer science program and reflect on how all of the skills I have learned fit together. My artifacts for this capstone demonstrate software engineering discipline, algorithmic thinking, database design, and security awareness. More importantly, though, they show my ability to approach a computing problem strategically and communicate solutions effectively. This portfolio shows not only what I have designed and built, but also how I think and tackle projects. I approach my projects as a structured problem solver, a security conscious developer, and with the mindset of a technology leader who is ready to make meaningful contributions to the industry. 
 
+**Professional Self-Assessment PDF:**
+[Professional Self-Assessment (PDF)](assets/assets/pdfs/CS-499_Professional_Self_Assessment.pdf)
 ---
 
 ## Informal Code Review

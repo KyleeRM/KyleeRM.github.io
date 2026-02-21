@@ -26,7 +26,7 @@ Throughout this capstone course, I have demonstrated growth and proficiency in t
 
 
   
-  Below you will find:
+  ## Below you will find:
   
 - Professional Self-Assessment
 - Code Review

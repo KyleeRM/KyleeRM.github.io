@@ -48,6 +48,7 @@ Developing this ePortfolio has allowed me to look back on my time in the SNHU co
 
 **Professional Self-Assessment PDF:**
 [Professional Self-Assessment (PDF)](assets/assets/pdfs/CS-499_Professional_Self_Assessment.pdf)
+
 ---
 
 ## Informal Code Review

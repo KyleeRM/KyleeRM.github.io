@@ -26,7 +26,7 @@ These outcomes are reflected throughout my code review, artifact enhancements, a
 
 
   
- ## Below you will find:
+ **Below you will find:**
   
 - Professional Self-Assessment
 - Code Review

@@ -30,9 +30,10 @@ These outcomes are reflected throughout my code review, artifact enhancements, a
   
 - Professional Self-Assessment
 - Code Review
--  Enhancement One: Software Design and Engineering
--  Enhancement Two: Algorithms and Data Structures
--  Enhancement Three: Databases 
+- Original Artifact
+- Enhancement One: Software Design and Engineering
+- Enhancement Two: Algorithms and Data Structures
+- Enhancement Three: Databases 
 
 ---
 
@@ -64,6 +65,18 @@ The video below contains:
 [CS 499 Code Review – Milestone 1](https://youtu.be/bOn9O469nPY)
 
 ---
+
+## Original Artifact
+
+### Artifact: Inventory Management Application
+
+- **Description:** Original Android inventory management application prior to capstone enhancements.
+
+- **Purpose:** This version serves as the baseline used for the informal code review and demonstrates the starting point before the software design, algorithmic, and database improvements were implemented.
+
+  **Download Source Code (Zip):**
+  [Inventory App – Original Artifact ZIP](assets/assets/zips/InventoryAppFinal.zip)
+ 
 
 ## Enhancement One: Software Design and Engineering
 

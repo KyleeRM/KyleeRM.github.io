@@ -101,7 +101,7 @@ The video below contains:
 ### Artifact: Inventory Management Application
 
 - **Description:** Android-based inventory management application enhanced to demonstrate algorithmic thinking and effective data handling.
-- 
+  
 - **Skills Demonstrated:** Efficient data handling, algorithmic problem solving, validation/duplicate detection, and applying CS practices/standards while managing trade-offs.
 
 **Narrative:**  
@@ -117,7 +117,7 @@ The video below contains:
 ### Artifact: Inventory Management Application
 
 - **Description:** Android-based inventory management application enhanced to expand database functionality beyond basic CRUD and strengthen secure data handling practices.
-- 
+  
 - **Skills Demonstrated:** JSON import/export design, transaction-safe database operations, secure credential storage, encryption of sensitive data, and database integrity management.
 
 

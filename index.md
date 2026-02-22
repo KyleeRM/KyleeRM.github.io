@@ -74,8 +74,8 @@ The video below contains:
 
 - **Purpose:** This version serves as the baseline used for the informal code review and demonstrates the starting point before the software design, algorithmic, and database improvements were implemented.
 
-  **Download Source Code (Zip):**
-  [Inventory App – Original Artifact ZIP](assets/assets/zips/InventoryAppFinal.zip)
+**Download Source Code (Zip):**  
+[Inventory App – Original Artifact ZIP](assets/assets/zips/InventoryAppFinal.zip)
 
  ---
 

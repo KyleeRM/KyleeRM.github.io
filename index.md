@@ -76,7 +76,8 @@ The video below contains:
 
   **Download Source Code (Zip):**
   [Inventory App – Original Artifact ZIP](assets/assets/zips/InventoryAppFinal.zip)
- 
+
+ ---
 
 ## Enhancement One: Software Design and Engineering
 

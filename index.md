@@ -91,7 +91,7 @@ The video below contains:
 [Enhancement One Narrative (PDF)](assets/assets/pdfs/CS-499_Milestone_Two_Narrative.pdf)
 
  **Download Source Code (ZIP):**  
-[Inventory App – Enhancement One ZIP](assets/assets/zips/InventoryAppFinal_CS-499_Module3.zip)
+ [Inventory App – Enhancement One ZIP](assets/assets/zips/InventoryAppFinal_CS-499_Module3.zip)
 
 ---
 
@@ -102,11 +102,11 @@ The video below contains:
 - **Description:** Android-based inventory management application enhanced to demonstrate algorithmic thinking and effective data handling.
 - **Skills Demonstrated:** Efficient data handling, algorithmic problem solving, validation/duplicate detection, and applying CS practices/standards while managing trade-offs.
 
-**Narrative:** 
+**Narrative:**  
 [Enhancement Two Narrative (PDF)](assets/assets/pdfs/CS499_Milestone_Three_Narrative.pdf)
 
- **Download Source Code (ZIP):**
-[Inventory App – Enhancement Two ZIP](assets/assets/zips/InventoryAppFinal_CS499_Module4.zip)
+ **Download Source Code (ZIP):**  
+ [Inventory App – Enhancement Two ZIP](assets/assets/zips/InventoryAppFinal_CS499_Module4.zip)
 
 ---
 
@@ -118,8 +118,8 @@ The video below contains:
 - **Skills Demonstrated:** JSON import/export design, transaction-safe database operations, secure credential storage, encryption of sensitive data, and database integrity management.
 
 
-**Narrative:** 
+**Narrative:**  
 [Enhancement Three Narrative (PDF)](assets/assets/pdfs/CS499_Milestone_Four_Narrative.pdf)
 
- **Download Source Code (ZIP):**
-[Inventory App – Enhancement Three ZIP](assets/assets/zips/InventoryAppFinal_CS499_Module5.zip)
+ **Download Source Code (ZIP):**  
+ [Inventory App – Enhancement Three ZIP](assets/assets/zips/InventoryAppFinal_CS499_Module5.zip)
